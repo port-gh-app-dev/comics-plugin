@@ -1,10 +1,18 @@
 {
   "mcpServers": {
-    "filesystem": {
+    "filesys": {
       "command": "npx",
       "args": [
         "-y",
         "@modelcontextprotocol/server-filesystem",
+        "."
+      ]
+    },
+    "bedrock": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/bedrock",
         "."
       ]
     }
