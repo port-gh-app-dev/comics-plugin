@@ -1,0 +1,21 @@
+{
+  "name": "dc-comics-discovery",
+  "version": "1.0.0",
+  "description": "Claude Code plugin for discovering DC Comics reading recommendations, teams, and story arcs.",
+  "author": {
+    "name": "port-gh-app-dev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "dc-comics",
+    "comics",
+    "reading-guide",
+    "recommendations"
+  ],
+  "commands": [
+    "./commands"
+  ],
+  "skills": [
+    "./skills"
+  ]
+}
