@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "filesys": {
+    "filesyss": {
       "command": "npx",
       "args": [
         "-y",
